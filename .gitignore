@@ -1,0 +1,15 @@
+# Vscode
+.vscode
+
+# Python
+__pycache__/
+Pipfile.lock
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
